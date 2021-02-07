@@ -1,0 +1,11 @@
+C:\Dev\learning\WPF\WPFMVVM-StarterCode\ZzaDashboard\Zza.Data\bin\Debug\Zza.Data.dll.config
+C:\Dev\learning\WPF\WPFMVVM-StarterCode\ZzaDashboard\Zza.Data\bin\Debug\Zza.Data.dll
+C:\Dev\learning\WPF\WPFMVVM-StarterCode\ZzaDashboard\Zza.Data\bin\Debug\Zza.Data.pdb
+C:\Dev\learning\WPF\WPFMVVM-StarterCode\ZzaDashboard\Zza.Data\bin\Debug\EntityFramework.dll
+C:\Dev\learning\WPF\WPFMVVM-StarterCode\ZzaDashboard\Zza.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Dev\learning\WPF\WPFMVVM-StarterCode\ZzaDashboard\Zza.Data\bin\Debug\EntityFramework.xml
+C:\Dev\learning\WPF\WPFMVVM-StarterCode\ZzaDashboard\Zza.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Dev\learning\WPF\WPFMVVM-StarterCode\ZzaDashboard\Zza.Data\obj\Debug\Zza.Data.csproj.CoreCompileInputs.cache
+C:\Dev\learning\WPF\WPFMVVM-StarterCode\ZzaDashboard\Zza.Data\obj\Debug\Zza.Data.csproj.CopyComplete
+C:\Dev\learning\WPF\WPFMVVM-StarterCode\ZzaDashboard\Zza.Data\obj\Debug\Zza.Data.dll
+C:\Dev\learning\WPF\WPFMVVM-StarterCode\ZzaDashboard\Zza.Data\obj\Debug\Zza.Data.pdb
